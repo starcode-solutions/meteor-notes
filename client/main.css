@@ -1,1 +1,8 @@
 /* CSS declarations go here */
+.content-wrapper {
+    margin-top: 15px;
+}
+
+.content-wrapper .row div {
+    margin-top: 15px;
+}
